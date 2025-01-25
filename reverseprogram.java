@@ -15,6 +15,6 @@ public class reversenumber
             					number /= 10;                 
        			 		}        
 
-              			System.out.println("Reversed number: " + reversed);
+              			System.out.println("Reversed numbers: " + reversed);
     			}
 	}
